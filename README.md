@@ -1,5 +1,13 @@
 # AlArtAvatar
 
+## Kullanılan Teknolojiler
+
+- Bloc
+- Http
+- sharedPreferences
+- hive
+- webview
+
 <img src="images/alartss1.png" alt="AlArtAvatar" width="200"> 
 <img src="images/alartss2.png" alt="AlArtAvatar" width="200"> 
 <img src="images/alartss3.png" alt="AlArtAvatar" width="200"> 
@@ -16,10 +24,4 @@
 <img src="images/alartss14.png" alt="AlArtAvatar" width="200"> 
 <img src="images/alartss15.png" alt="AlArtAvatar" width="200"> 
 
-## Kullanılan Teknolojiler
 
-- Bloc
-- Http
-- sharedPreferences
-- hive
-- webview
