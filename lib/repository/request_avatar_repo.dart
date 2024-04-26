@@ -41,7 +41,7 @@ class RequestAvatarRepository {
   }
 }
 
-  // Readme dosyasında bashettigim siteden apikey alabilirsiniz
+  // Readme dosyasında bashettiğim siteden apikey alabilirsiniz
 /* class RequestAvatarRepository {
   Future<dynamic> fetchImage(
     String prompt,
